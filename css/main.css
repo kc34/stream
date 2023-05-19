@@ -1,0 +1,6 @@
+html {
+  scroll-padding-top: 4rem; /* Prevents anchors from scrolling text under the nav-bar */
+}
+img {
+  max-width:50%;
+}
